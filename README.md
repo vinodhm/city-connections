@@ -7,5 +7,5 @@ Assumptions:
 - After any changes to input file, it required to restart the service.
 
 Maven Command to run: 
-mvn spring-boot:run -Drun.jvmArguments="-Xmx1024m"  
+- mvn spring-boot:run -Drun.jvmArguments="-Xmx1024m"  
 
