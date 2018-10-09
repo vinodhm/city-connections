@@ -1,0 +1,10 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Newark, Trenton
+Trenton, Newark
+Newark, Boston
+Hoboken, Weehawken
+Weehawken,UnionCity
+UnionCity, north Bergen
